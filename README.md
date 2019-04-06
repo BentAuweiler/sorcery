@@ -8,7 +8,7 @@ The key design goals are:
 * in later stages compiled/transpiled to machine Code (intermediatly C++ Code)
 * written in Java
 
-
+![alt text](https://github.com/BentAuweiler/sorcery/blob/master/Sorcery_overview.jpg)
 
 external resources:
  * https://tomassetti.me/resources-create-programming-languages/#design-general-books
