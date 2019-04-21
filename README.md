@@ -4,6 +4,7 @@ The programming language sorcery
 The key design goals are:
 
 * a Ruby like syntax
+* Sorcery will be to Java what Typescript is to Javascript
 * compiled/transpiled to bytecode (intermediately Java Code)
 * in later stages compiled/transpiled to machine Code (intermediatly C++ Code)
 * written in Java
