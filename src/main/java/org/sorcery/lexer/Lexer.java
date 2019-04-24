@@ -26,4 +26,7 @@ public abstract class Lexer{
         if(current_charackter == x) consume();
         else throw new Error("expecting charackter " + x + "; found " + current_charackter);
     }
+
+    public abstract Token nextToken();
+    public abstract String getTokenName(int tokenType);
 }
